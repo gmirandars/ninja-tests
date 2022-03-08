@@ -1,0 +1,14 @@
+{
+  "name": "test-cafe-project",
+  "version": "1.0.0",
+  "description": "Ranger Tech Automation Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/ -e"
+  },
+  "author": "Gabriel Miranda",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.18.4"
+  }
+}
